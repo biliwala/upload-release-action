@@ -1,5 +1,8 @@
 # Changelog
 
+## [2.2.2] - 2021-03-02
+- Add `target_commitish` input parameter. Specifies the commitish value that determines where the Git tag is created from.
+
 ## [2.2.1] - 2020-12-16
 - Added support for the GitHub pagination API for repositories with many releases [#36](https://github.com/svenstaro/upload-release-action/pull/36) (thanks @djpohly)
 
